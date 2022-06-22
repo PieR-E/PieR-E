@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PieR-E
-- 👀 I’m interested in Data-Science and/or full-stack developer job
-- 🌱 I’m currently learning Angular 2
+- 👀 I’m interested in senior Data-Science and/or junior developer job
+- 🌱 I’m currently learning React
 - 📫 How to reach me richaud.pierre@outlook.fr
 
 <!---
